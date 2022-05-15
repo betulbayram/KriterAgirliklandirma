@@ -1,0 +1,17 @@
+aday sayisi belirle
+kriter sayisi belirle
+kriter ağırlıkları belirle(çok boyutlu dizide tut)
+
+Entropi ile ağırlıklandırma
+-karar matrisinin normalizasyonunu hesapla
+-her bir kriter için Entropideğeri hesapla
+-her bir değerin ağırlık değerini hesapla
+
+
+SAW ile sırala
+-karar matrisinin normalize edilmesi
+-alternatiflerin tercih değerinin hesaplanması
+
+iki tablo:
+birincisi karar matrisi
+ikincisi sonuçları
